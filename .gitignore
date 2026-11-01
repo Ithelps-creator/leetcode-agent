@@ -1,0 +1,7 @@
+venv/
+leetcode-profile/
+leetcode-chrome/
+results.csv
+submit-debug.png
+__pycache__/
+.env
